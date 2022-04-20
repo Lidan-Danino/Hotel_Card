@@ -1,2 +1,3 @@
-# Hotel_Card
-Simple hotel card 
+# Hotel Card
+
+Simple and nice hotel card 
